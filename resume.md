@@ -52,13 +52,6 @@ Website developer for She Says Singapore with React/Gatsby, GraphQL and Styled C
 
 Webhint is a linting tool that's meant to help website owners and developers with their site's accessibility, speed, security and more. On this project, I worked on an algorithm to check if a website was using unsupported CSS. Unit testing with Ava.
 
-## In&Out
-
-> ##### NodeJS + Vue + Typescript
-
-A marketing website that provides recommendations for what to see, do and eat in Barcelona. I worked on the interactive map - responsive styling, the service on the front end and the controllers in the back end.
-![in_and_out](./assets/in_and_out.gif)
-
 ## Typeform to Facebook Messenger
 
 > ##### NodeJS + Typeform API + Facebook Messenger API
@@ -66,6 +59,13 @@ A marketing website that provides recommendations for what to see, do and eat in
 A proof of concept for the World Bank to use Typeform and Facebook Messenger to give non-developers the power to create their own bots. The project was a NodeJS server that served as a middle-end between Typeform's API and Facebook's API. Unit testing with Jest.
 
 ![typeform-messenger](./assets/typeform-messenger.png)
+
+## In&Out
+
+> ##### NodeJS + Vue + Typescript
+
+A marketing website that provides recommendations for what to see, do and eat in Barcelona. I worked on the interactive map - responsive styling, the service on the front end and the controllers in the back end.
+![in_and_out](./assets/in_and_out.gif)
 
 ## Map Stories
 
