@@ -65,6 +65,7 @@ A proof of concept for the World Bank to use Typeform and Facebook Messenger to 
 > ##### NodeJS + Vue + Typescript
 
 A marketing website that provides recommendations for what to see, do and eat in Barcelona. I worked on the interactive map - responsive styling, the service on the front end and the controllers in the back end.
+
 ![in_and_out](./assets/in_and_out.gif)
 
 ## Map Stories
@@ -72,6 +73,7 @@ A marketing website that provides recommendations for what to see, do and eat in
 > ##### NodeJS + MongoDB + Mocha/Chai
 
 A web app for location based storytelling using maps. Users can sign up to the app and create they own stories with images, text and video. I worked on the backend with Koa and MongoDB. Unit and integration testing with Mocha, Chai and Sinon.
+
 ![map-stories](./assets/map-stories.png)
 
 ## Map Marklet
@@ -79,6 +81,7 @@ A web app for location based storytelling using maps. Users can sign up to the a
 > ##### React/Redux + Chrome Extensions API + NodeJS
 
 A Chrome extension that lets users save urls to markers on a personal instance of Google Maps. While planning for road trips, I often save bookmarks to many websites which I then reference later. However, it's difficult to know the locations the websites refer to. This Chrome extension helps users locate the places that the websites refer to on a map.
+
 ![map-marklet-popup](./assets/map-marklet-popup.png)
 
 ## Madhouse Heaven
