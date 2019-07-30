@@ -32,7 +32,7 @@ Software Engineer working in a Full Stack role on a wide variety of consultancy 
 _January 2018 - September 2018_ \
 Software Engineer and JavaScript Teaching Assistant. I developed internal tools used in the evaluation of student performance and the handing out of assignments and notes. I worked with Express, Firebase and Heroku. Earlier iterations of the project were in mySQL.
 
-### The World Banke
+### The World Bank
 
 _April 2018 - June 2018_
 Consultancy work for the World Bank working on a proof of concept for data collection through Facebook Messenger. The idea was to use Typeform's form system to make it easy for workers in developing countries to create their own chatbot on Facebook. NodeJS was used as middle-end architecture between the forms and Facebook's API.
