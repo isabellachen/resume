@@ -34,12 +34,12 @@ Software Engineer and JavaScript Teaching Assistant. I developed internal tools 
 
 ### The World Bank
 
-_April 2018 - June 2018_
+_April 2018 - June 2018_ \
 Consultancy work for the World Bank working on a proof of concept for data collection through Facebook Messenger. The idea was to use Typeform's form system to make it easy for workers in developing countries to create their own chatbot on Facebook. NodeJS was used as middle-end architecture between the forms and Facebook's API.
 
 ### She Says Singapore
 
-_July 2018 - August 2018_
+_July 2018 - August 2018_ \
 Website developer for She Says Singapore with React/Gatsby, GraphQL and Styled Components. This project led to working on a node plugin to pull data from Eventful and transform them so Gatsby's GraphQL architecture could consume it.
 
 ---
