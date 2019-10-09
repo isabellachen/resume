@@ -1,22 +1,19 @@
 # Hi! I'm Isabella.
 
-I'm a Full Stack Software Engineer, and I work with **JavaScript**. I've been developing apps and websites for three years, and I've worked on many projects with a wide variety of technologies. Most of my earliest projects are NodeJS projects, with MongoDB. I've also developed a couple of Facebook apps, and even a library to [convert a Typeform into a conversation on Facebook Messenger](https://medium.com/typeforms-engineering-blog/making-bots-with-typeform-12212d5740f8).
-
-I'm interested in working in a fast paced environment with a tech stack I want to work with, and plenty of interesting challenges.
-
-I've developed many **production ready apps** in a wide variety of technologies.
+I'm a Full Stack Software Engineer, and I work with **JavaScript**. Three years ago, I taught myself how to code. Since then, I've developed production ready apps and websites, working on many projects with a wide variety of technologies. Front-end technologies I have enjoyed working with are React + Redux and GatsbyJS, Vue and NuxtJS. I've also enjoyed customising content management systems like Strapi and Wordpress, and have experience with coding plugins. I've also [prototyped a Facebook chatbot](https://medium.com/typeforms-engineering-blog/making-bots-with-typeform-12212d5740f8) and worked on [Webhint.io](https://webhint.io/) a linting tool that runs on the command line.
 
 ---
 
 # My Tech Stack
 
+- React + Redux
+- GatsbyJS
+- Vue + Typescript
+- NuxtJS
 - Express/Koa
 - Mongoose + MongoDB
-- Firebase
 - Strapi (A NodeJS headless CMS)
-- React + Redux
-- Vue + Typescript
-- GatsbyJS
+- Wordpress development
 
 ---
 
@@ -50,7 +47,7 @@ Website developer for She Says Singapore with React/Gatsby, GraphQL and Styled C
 
 > ##### NodeJS CLI + Typescript
 
-Webhint is a linting tool that's meant to help website owners and developers with their site's accessibility, speed, security and more. On this project, I worked on an algorithm to check if a website was using unsupported CSS. Unit testing with Ava.
+Webhint is a linting tool that's meant to help website owners and developers with their site's accessibility, speed, security and more. On this project, I worked on an algorithm to check if a website was using unsupported CSS. Unit testing done with Ava.
 
 ## Typeform to Facebook Messenger
 
@@ -64,7 +61,7 @@ A proof of concept for the World Bank to use Typeform and Facebook Messenger to 
 
 > ##### NodeJS + Vue + Typescript
 
-A marketing website that provides recommendations for what to see, do and eat in Barcelona. I worked on the interactive map - responsive styling, the service on the front end and the controllers in the back end.
+A marketing website that provides recommendations for what to see, do and eat in Barcelona. I worked on the interactive map - responsive styling, the service utilising BingMaps on the front-end and the related controllers in the back end.
 
 ![in_and_out](./assets/in_and_out.gif)
 
@@ -80,7 +77,7 @@ A web app for location based storytelling using maps. Users can sign up to the a
 
 > ##### React/Redux + Chrome Extensions API + NodeJS
 
-A Chrome extension that lets users save urls to markers on a personal instance of Google Maps. While planning for road trips, I often save bookmarks to many websites which I then reference later. However, it's difficult to know the locations the websites refer to. This Chrome extension helps users locate the places that the websites refer to on a map.
+A Chrome extension that lets users save urls to markers on a personal instance of Google Maps. While planning for road trips, I often save bookmarks to many websites which I then reference later. However, it's difficult to know the locations the websites refer to. This Chrome extension helps users locate the places that the websites refer to on a map. [Check out the demo](https://www.youtube.com/watch?v=Y9YJI_ZZ2VQ&t=1s)!
 
 ![map-marklet-popup](./assets/map-marklet-popup.png)
 
@@ -88,6 +85,24 @@ A Chrome extension that lets users save urls to markers on a personal instance o
 
 > Wordpress + PHP
 
-This is my travel website which I've had for quite some years now. Occasionally I go in and tweak the template and some of the plugins.
+This is my travel website which I've had for quite some years now and has 5000+ hits a month. Through the years I've customised a number of themes and troubleshooted buggy plugins. I'm no means a Wordpress guru, but I can build a nice Wordpress site with strong SEO for non-developers that's easy to maintain. [Check it out!](https://www.madhouseheaven.com)
 
 ![madhouse-heaven](./assets/madhouse-heaven.jpg)
+
+## DemoMap
+> ##### React
+
+Website to showcase Microsoft's demo projects. I worked on the entire app from scaffolding to final layout touches.
+
+![demo-map-modal](./assets/demomap_nav_lg.gif)
+![demo-map-bullet](./assets/demomap_bullet_lg.gif)
+
+## Vector Search
+
+> ##### Vue + TypeScript
+
+Website to showcase new technology being developed by Microsoft's AI Labs. I worked on the responsive layout.
+
+![vector-search](./assets/vectorsearch_responsive.gif)
+
+

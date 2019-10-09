@@ -22,6 +22,12 @@
         height: 24rem;
         margin-right: 3rem;
       }
+      .gif_container {
+        display: flex;
+      }
+      .gif_single {
+        width: 50%;
+      }
     </style>
     <meta charset="UTF-8" />
   </head>
@@ -33,36 +39,33 @@
         <h1>Hi! I'm Isabella.</h1>
         <p>
           I'm a Full Stack Software Engineer, and I work with
-          <strong>JavaScript</strong>. I've been developing apps and websites
-          for three years, and I've worked on many projects with a wide variety
-          of technologies. Most of my earliest projects are NodeJS projects,
-          with MongoDB. I've also developed a couple of Facebook apps, and even
-          a library to
+          <strong>JavaScript</strong>. Three years ago, I taught myself how to
+          code. Since then, I've developed production ready apps and websites,
+          working on many projects with a wide variety of technologies.
+          Front-end technologies I have enjoyed working with are React + Redux
+          and GatsbyJS, Vue and NuxtJS. I've also enjoyed customising content
+          management systems like Strapi and Wordpress, and have experience with
+          coding plugins. I've also
           <a
             href="https://medium.com/typeforms-engineering-blog/making-bots-with-typeform-12212d5740f8"
-            >convert a Typeform into a conversation on Facebook Messenger</a
-          >.
-        </p>
-        <p>
-          I'm interested in working in a fast paced environment with a tech
-          stack I want to work with, and plenty of interesting challenges.
-        </p>
-        <p>
-          I've developed many <strong>production ready apps</strong> in a wide
-          variety of technologies.
+            >prototyped a Facebook chatbot</a
+          >
+          and worked on <a href="https://webhint.io/">Webhint.io</a> a linting
+          tool that runs on the command line.
         </p>
       </div>
     </div>
     <hr />
     <h1>My Tech Stack</h1>
     <ul>
+      <li>React + Redux</li>
+      <li>GatsbyJS</li>
+      <li>Vue + Typescript</li>
+      <li>NuxtJS</li>
       <li>Express/Koa</li>
       <li>Mongoose + MongoDB</li>
-      <li>Firebase</li>
       <li>Strapi (A NodeJS headless CMS)</li>
-      <li>React + Redux</li>
-      <li>Vue + Typescript</li>
-      <li>GatsbyJS</li>
+      <li>Wordpress development</li>
     </ul>
     <hr />
     <h1>Experience</h1>
@@ -94,8 +97,8 @@
     <p>
       <em>July 2018 - August 2018</em> Website developer for She Says Singapore
       with React/Gatsby, GraphQL and Styled Components. This project led to
-      working on a node plugin to pull data from Eventful and transform them so
-      Gatsby's GraphQL architecture could consume it.
+      working on a node plugin to pull data from Eventbrite and transform them
+      so Gatsby's GraphQL architecture could consume it.
     </p>
     <hr />
     <h1>Projects</h1>
@@ -137,7 +140,8 @@
     <p>
       A marketing website that provides recommendations for what to see, do and
       eat in Barcelona. I worked on the interactive map - responsive styling,
-      the service on the front end and the controllers in the back end.
+      the service utilising BingMaps on the front-end and the related
+      controllers in the back end.
     </p>
     <p>
       <img
@@ -176,6 +180,9 @@
       difficult to know the locations the websites refer to. This Chrome
       extension helps users locate the places that the websites refer to on a
       map.
+      <a href="https://www.youtube.com/watch?v=Y9YJI_ZZ2VQ&amp;t=1s"
+        >Check out the demo</a
+      >!
     </p>
     <p>
       <img
@@ -183,6 +190,58 @@
         src="./assets/map-marklet-popup.png"
         alt="map-marklet-popup"
       />
+    </p>
+    <h2 id="madhouse-heaven">Madhouse Heaven</h2>
+    <blockquote>
+      <p>Wordpress + PHP</p>
+    </blockquote>
+    <p>
+      This is my travel website which I&#39;ve had for quite some years now and
+      has 5000+ hits a month. Through the years I&#39;ve customised a number of
+      themes and troubleshooted buggy plugins. I&#39;m no means a Wordpress
+      guru, but I can build a nice Wordpress site with strong SEO for
+      non-developers that&#39;s easy to maintain.
+      <a href="https://www.madhouseheaven.com">Check it out!</a>
+    </p>
+    <p>
+      <img
+        class="img-responsive"
+        src="./assets/madhouse-heaven.jpg"
+        alt="madhouse-heaven"
+      />
+    </p>
+    <h2 id="demomap">DemoMap</h2>
+    <blockquote>
+      <h5 id="react">React</h5>
+    </blockquote>
+    <p>
+      Website to showcase Microsoft&#39;s demo projects. I worked on the entire
+      app from scaffolding to final layout touches.
+    </p>
+    <p class="gif_container">
+      <img
+        class="gif_single"
+        style="margin-right:1rem;"
+        src="./assets/demomap_nav_lg.gif"
+        alt="demo-map-modal"
+      />
+      <img
+        class="gif_single"
+        src="./assets/demomap_bullet_lg.gif"
+        alt="demo-map-bullet"
+      />
+    </p>
+
+    <h2 id="vector-search">Vector Search</h2>
+    <blockquote>
+      <h5 id="vue-typescript">Vue + TypeScript</h5>
+    </blockquote>
+    <p>
+      Website to showcase new technology being developed by Microsoft&#39;s AI
+      Labs. I worked on the responsive layout.
+    </p>
+    <p>
+      <img src="./assets/vectorsearch_responsive.gif" alt="vector-search" />
     </p>
   </body>
 </html>
